@@ -12,7 +12,11 @@ dependencies:
   flutter:
     sdk: flutter
   meta: ">=1.0.0 <2.0.0"
-  plugin_platform_interface: ^2.0.0
+  
+  plugin_platform_interface:
+    git:
+      url: https://github.com/crochik/flutter_keyboard_visibility.git
+      path: flutter_keyboard_visibility_platform_interface  
 
 dev_dependencies:
   pedantic: ^1.11.0
