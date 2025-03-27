@@ -13,27 +13,27 @@ dependencies:
   
   flutter_keyboard_visibility_platform_interface: 
     git:
-      url: https://github.com:crochik/flutter_keyboard_visibility.git
+      url: https://github.com/crochik/flutter_keyboard_visibility.git
       path: flutter_keyboard_visibility_platform_interface
   
   flutter_keyboard_visibility_linux: 
     git:
-      url: https://github.com:crochik/flutter_keyboard_visibility.git
+      url: https://github.com/crochik/flutter_keyboard_visibility.git
       path: flutter_keyboard_visibility_linux
   
   flutter_keyboard_visibility_macos:
     git:
-      url: https://github.com:crochik/flutter_keyboard_visibility.git
+      url: https://github.com/crochik/flutter_keyboard_visibility.git
       path: flutter_keyboard_visibility_macos
   
   flutter_keyboard_visibility_web: 
     git:
-      url: https://github.com:crochik/flutter_keyboard_visibility.git
+      url: https://github.com/crochik/flutter_keyboard_visibility.git
       path: flutter_keyboard_visibility_web
       
   flutter_keyboard_visibility_windows: 
     git:
-      url: https://github.com:crochik/flutter_keyboard_visibility.git
+      url: https://github.com/crochik/flutter_keyboard_visibility.git
       path: flutter_keyboard_visibility_windows
 
   flutter:
